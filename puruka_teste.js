@@ -1,1 +1,3 @@
-alert("I am an alert box!");
+(fuction() {
+  alert("I am an alert box!"); 
+ })
